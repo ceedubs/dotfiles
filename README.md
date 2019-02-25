@@ -1,5 +1,7 @@
 # my config files
 
+**Note: this project has [moved to gitlab](https://gitlab.com/ceedubs/dotfiles) and this repository is no longer kept up-to-date.**
+
 ## setting up a new environment
 
 ### install nix
